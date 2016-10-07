@@ -126,7 +126,7 @@ iOS上实现类似于Android的RelativeLayout/LinearLayout/FrameLayout
                 // 距button 20 dp
                 params.leftMargin = 20.0f;
                 
-                // 距label1上侧距离20dp
+                // 距button上侧距离20dp
                 params.topMargin = 20.0f;
                 
                 [layout setImage:[UIImage imageNamed:@"icon.png"]];

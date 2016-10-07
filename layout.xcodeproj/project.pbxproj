@@ -21,6 +21,7 @@
 		DD546D5C1DA7BE1100875929 /* RelativeLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = DD546D561DA7BE1100875929 /* RelativeLayout.m */; };
 		DD546D5D1DA7BE1100875929 /* UIView+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = DD546D581DA7BE1100875929 /* UIView+Layout.m */; };
 		DD546D611DA7C3EA00875929 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = DD546D601DA7C3EA00875929 /* icon.png */; };
+		DD546D631DA7D0BE00875929 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = DD546D621DA7D0BE00875929 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +69,7 @@
 		DD546D571DA7BE1100875929 /* UIView+Layout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Layout.h"; sourceTree = "<group>"; };
 		DD546D581DA7BE1100875929 /* UIView+Layout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Layout.m"; sourceTree = "<group>"; };
 		DD546D601DA7C3EA00875929 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		DD546D621DA7D0BE00875929 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 		DD546D0E1DA7BDC900875929 = {
 			isa = PBXGroup;
 			children = (
+				DD546D621DA7D0BE00875929 /* README.md */,
 				DD546D4D1DA7BE1100875929 /* HALayout */,
 				DD546D191DA7BDC900875929 /* layout */,
 				DD546D331DA7BDC900875929 /* layoutTests */,
@@ -337,6 +340,7 @@
 				DD546D1F1DA7BDC900875929 /* AppDelegate.m in Sources */,
 				DD546D5D1DA7BE1100875929 /* UIView+Layout.m in Sources */,
 				DD546D5A1DA7BE1100875929 /* LayoutContainer.m in Sources */,
+				DD546D631DA7D0BE00875929 /* README.md in Sources */,
 				DD546D5C1DA7BE1100875929 /* RelativeLayout.m in Sources */,
 				DD546D1C1DA7BDC900875929 /* main.m in Sources */,
 			);
@@ -562,6 +566,7 @@
 				DD546D461DA7BDC900875929 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DD546D471DA7BDC900875929 /* Build configuration list for PBXNativeTarget "layoutTests" */ = {
 			isa = XCConfigurationList;
@@ -570,6 +575,7 @@
 				DD546D491DA7BDC900875929 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DD546D4A1DA7BDC900875929 /* Build configuration list for PBXNativeTarget "layoutUITests" */ = {
 			isa = XCConfigurationList;
@@ -578,6 +584,7 @@
 				DD546D4C1DA7BDC900875929 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,21 +1,28 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "c7cc393f-f910-4505-9731-73e9d577cc86",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B90FF4972C76BF9240C55B6C2936EDBAF9384D5D",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "c7cc393f-f910-4505-9731-73e9d577cc86" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "c7cc393f-f910-4505-9731-73e9d577cc86" : 0
+    "c7cc393f-f910-4505-9731-73e9d577cc86" : 0,
+    "B90FF4972C76BF9240C55B6C2936EDBAF9384D5D" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "97BAB62D-BBFD-4A0B-BBD9-AFEC5D691F1B",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "c7cc393f-f910-4505-9731-73e9d577cc86" : "alisvn\/"
+    "c7cc393f-f910-4505-9731-73e9d577cc86" : "",
+    "B90FF4972C76BF9240C55B6C2936EDBAF9384D5D" : "HALayout\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "layout",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "layout\/layout.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "layout.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:salam11\/HALayout.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B90FF4972C76BF9240C55B6C2936EDBAF9384D5D"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/182.92.72.114:9999\/svnrepos",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
